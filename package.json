@@ -1,0 +1,11 @@
+{
+  "name": "prismaio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RodrigoGrz/fundamentos-prisma.git",
+  "author": "<rodrigo.gregorio1@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^3.15.1"
+  }
+}
